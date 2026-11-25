@@ -1,4 +1,4 @@
 # Sam-project
 This is first repository
 <br>
-Author - Sameer (Programer)
+Author - Sameer (Programer + hardworking)
